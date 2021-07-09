@@ -1,1 +1,1 @@
-# js-assign_1-lets-upgrade
+# js-assignments-lets-upgrade
